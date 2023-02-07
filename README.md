@@ -4,13 +4,15 @@
 
 Inspired by [this](https://tomstu.art/programming-with-nothing).
 
-1. [Ruby](ruby)
-2. [JavaScript](js)
-3. [Python](python)
-4. [Clojure](clojure)
-5. [PHP](php)
-6. [Lua](lua)
-7. [Julia](julia)
+| Language           | Time    |
+|--------------------|---------|
+| [Ruby](ruby)       | 6.68s   |
+| [JavaScript](js)   | 0.79s   |
+| [Python](python)   | 5.39s   |
+| [Clojure](clojure) | 2.26s   |
+| [PHP](php)         | 5.42s   |
+| [Lua](lua)         | 4.25s   |
+| [Julia](julia)     | 21m 41s |
 
 Failures:
 
