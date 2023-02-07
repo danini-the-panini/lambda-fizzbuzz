@@ -8,6 +8,7 @@ Inspired by [this](https://tomstu.art/programming-with-nothing).
 2. [JavaScript](js)
 3. [Python](python)
 4. [Clojure](clojure)
+5. [PHP](php)
 
 Failures:
 
