@@ -10,6 +10,7 @@ Inspired by [this](https://tomstu.art/programming-with-nothing).
 4. [Clojure](clojure)
 5. [PHP](php)
 6. [Lua](lua)
+7. [Julia](julia)
 
 Failures:
 
